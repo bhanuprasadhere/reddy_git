@@ -3,3 +3,6 @@ BHANU PRASAD REDDY
 Integrated MTech CSE
 SCOPE
 VIT Vellore
+
+Application Development and Deployment Architecture
+
